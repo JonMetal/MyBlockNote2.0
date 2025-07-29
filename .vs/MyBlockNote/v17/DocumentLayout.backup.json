@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Onyx\\MyBlockNote2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\themecolors\\themecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\themecolors\\themecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\themecolors\\basethemecolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\themecolors\\basethemecolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\themecolors\\ithemecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\themecolors\\ithemecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\App.xaml.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\App.xaml.cs",
+              "RelativeToolTip": "MyBlockNote\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:14:40.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseThemeColors.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\BaseThemeColors.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\ThemeColors\\BaseThemeColors.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\BaseThemeColors.cs",
+              "RelativeToolTip": "MyBlockNote\\ThemeColors\\BaseThemeColors.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:14:26.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IThemeColorProvider.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\IThemeColorProvider.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\ThemeColors\\IThemeColorProvider.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\IThemeColorProvider.cs",
+              "RelativeToolTip": "MyBlockNote\\ThemeColors\\IThemeColorProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:14:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemeColorProvider.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\ThemeColorProvider.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\ThemeColors\\ThemeColorProvider.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\ThemeColorProvider.cs",
+              "RelativeToolTip": "MyBlockNote\\ThemeColors\\ThemeColorProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:14:11.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿<Application x:Class="MyBlockNote.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MyBlockNote"
+             Startup="ApplicationStartup"
+             Exit="ApplicationExit">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
