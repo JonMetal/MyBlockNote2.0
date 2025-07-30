@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Onyx\\MyBlockNote2.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\windows\\aboutprogramwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\windows\\aboutprogramwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\windows\\fontsettingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\windows\\fontsettingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\windows\\themesettingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\windows\\themesettingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\windowsfactory\\windowfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\windowsfactory\\windowfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\themecolors\\themecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\themecolors\\themecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\themecolors\\ithemecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\themecolors\\ithemecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\themecolors\\basethemecolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\themecolors\\basethemecolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|c:\\onyx\\myblocknote2.0\\myblocknote\\themecolors\\ithemecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DBB69FF-6169-45D3-AE46-3792E060E325}|MyBlockNote\\MyBlockNote.csproj|solutionrelative:myblocknote\\themecolors\\ithemecolorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +54,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutProgramWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\Windows\\AboutProgramWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\Windows\\AboutProgramWindow.xaml.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\Windows\\AboutProgramWindow.xaml.cs",
+              "RelativeToolTip": "MyBlockNote\\Windows\\AboutProgramWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:25:54.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FontSettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\Windows\\FontSettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\Windows\\FontSettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\Windows\\FontSettingsWindow.xaml.cs",
+              "RelativeToolTip": "MyBlockNote\\Windows\\FontSettingsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:25:46.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MyBlockNote\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:25:42.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemeSettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\Windows\\ThemeSettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\Windows\\ThemeSettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\Windows\\ThemeSettingsWindow.xaml.cs",
+              "RelativeToolTip": "MyBlockNote\\Windows\\ThemeSettingsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:25:05.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowFactory.cs",
+              "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\WindowsFactory\\WindowFactory.cs",
+              "RelativeDocumentMoniker": "MyBlockNote\\WindowsFactory\\WindowFactory.cs",
+              "ToolTip": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\WindowsFactory\\WindowFactory.cs",
+              "RelativeToolTip": "MyBlockNote\\WindowsFactory\\WindowFactory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:24:54.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\App.xaml.cs",
               "RelativeDocumentMoniker": "MyBlockNote\\App.xaml.cs",
@@ -46,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "BaseThemeColors.cs",
               "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\BaseThemeColors.cs",
               "RelativeDocumentMoniker": "MyBlockNote\\ThemeColors\\BaseThemeColors.cs",
@@ -58,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IThemeColorProvider.cs",
               "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\IThemeColorProvider.cs",
               "RelativeDocumentMoniker": "MyBlockNote\\ThemeColors\\IThemeColorProvider.cs",
@@ -66,11 +151,12 @@
               "RelativeToolTip": "MyBlockNote\\ThemeColors\\IThemeColorProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T12:14:25.658Z"
+              "WhenOpened": "2025-07-29T12:14:25.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ThemeColorProvider.cs",
               "DocumentMoniker": "C:\\Onyx\\MyBlockNote2.0\\MyBlockNote\\ThemeColors\\ThemeColorProvider.cs",
               "RelativeDocumentMoniker": "MyBlockNote\\ThemeColors\\ThemeColorProvider.cs",

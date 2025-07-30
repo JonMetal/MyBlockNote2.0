@@ -12,7 +12,7 @@ namespace MyBlockNote.Windows
     {
         private IList<Color> _colors = [];
         private IList<ColorPicker> _colorsPickers = [];
-        private IThemeColorProvider _themeColorProvider = new ThemeColorProvider();
+        private readonly IThemeColorProvider _themeColorProvider = new ThemeColorProvider();
         public ThemeSettingsWindow(IList<Brush> brushes)
         {
             foreach (Brush brush in brushes)
